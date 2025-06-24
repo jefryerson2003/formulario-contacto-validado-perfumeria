@@ -25,8 +25,6 @@ Ofrecer un formulario profesional y funcional para ser integrado en sitios web c
 
 ## 🖼 Captura de pantalla
 
-> (Opcional) Puedes subir una imagen `screenshot.png` al repositorio y luego incluir aquí:
-
 ![alt text](image.png)
 
 ## 💻 Tecnologías utilizadas
