@@ -78,25 +78,4 @@ git clone https://github.com/TU_USUARIO/formulario-contacto-validado.git
 ## 🧠 Autor
 
 Jefferson Anaya
-[GitHub](https://github.com/TU_USUARIO)
-
----
-
-````
-
----
-
-## ✅ Siguiente paso:
-
-1. Guarda este texto como `README.md` en la raíz de tu proyecto
-2. En terminal:
-
-```bash
-git add README.md
-git commit -m "Agregar README profesional"
-git push
-````
-
----
-
-¿Listo para seguir con el **Mini Proyecto 3: Consumo de API pública con `fetch` o `axios`**?
+[GitHub](https://github.com/jefryerson2003)
